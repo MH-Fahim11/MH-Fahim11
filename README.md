@@ -1,4 +1,4 @@
-### Hi there, I'm Fahim - aka [MH-Fahim][website] 👋 
+### Hi there, I'm Fahim - aka [MH-Fahim] 👋 
 
 
 ## I'm a Stutent and a Flutter app developer !!
@@ -10,12 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="" />]
-[<img align="left" alt="" width="22px" src="" />]
-[<img align="left" alt="" width="22px" src="" />]
-[<img align="left" alt="" width="22px" src="" />]
-[<img align="left" alt="" width="22px" src="" />]
-
+[<img align="left" alt="" width="22px" src="assets/twitter.png" />][twitter] <br/>
 
 ### Languages and Tools:
 
