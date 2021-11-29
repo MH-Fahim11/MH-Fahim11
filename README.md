@@ -1,13 +1,11 @@
-## Hi there, I'm Fahim - aka [MH-Fahim] 👋 
+## Hi there, <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+This is the place where I opensource stuff and break things :rofl:
 
-<br />
-
-### I'm a Stutent and a Flutter app developer !!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sleep
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning everything 🤣
+- 👯 &nbsp;I’m looking to collaborate with other content creators
+- 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects
+- ⚡ &nbsp;Fun fact: I :heart: 🐈:s
 
 ### Connect with me:
 
