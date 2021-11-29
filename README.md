@@ -1,7 +1,8 @@
-### Hi there, I'm Fahim - aka [MH-Fahim] 👋 
+## Hi there, I'm Fahim - aka [MH-Fahim] 👋 
 
+<br />
 
-## I'm a Stutent and a Flutter app developer !!
+### I'm a Stutent and a Flutter app developer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
