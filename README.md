@@ -9,11 +9,13 @@ This is the place where I opensource stuff and break things :rofl:
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="assets/twitter.png" />][twitter] <br/>
+[<img align="left" alt="" width="22px" src="assets/twitter.png" />][twitter] 
+[<img align="left" alt="" width="22px" src="assets/linedin.png" />][linkedin] <br/>
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <br />
 <br />
 
