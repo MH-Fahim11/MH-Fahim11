@@ -9,7 +9,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="assets/twitter.png" />][twitter] 
+[<img align="left" alt="" width="22px" src="assets/twitter.gif" />][twitter] 
 [<img align="left" alt="" width="22px" src="assets/linkedin.gif" />][linkedin] <br/>
 
 ### Languages and Tools:
