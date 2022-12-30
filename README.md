@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning everything 🤣
 - 👯 &nbsp;I’m looking to collaborate with other content creators
-- 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects
+- 🥅 &nbsp;2023 Goals: Become a web developer (❁´◡`❁)
 - ⚡ &nbsp;Fun fact: I :heart: 🐈
 
 ### Connect with me:
