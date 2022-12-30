@@ -43,10 +43,10 @@ This is the place where I opensource stuff and break things :rofl:
 <br />
 <br />
 
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/MH___Fahim
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/
+[linkedin]: https://www.linkedin.com/in/mh-fahim/
 [website]:https://linkedin.com
 
 
