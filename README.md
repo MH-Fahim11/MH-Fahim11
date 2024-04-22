@@ -55,7 +55,7 @@ This is the place where I opensource stuff and break things :rofl:
 [youtube]: https://youtube.com/
 [facebook]: https://facebook.com/Mhfahim29
 [linkedin]: https://www.linkedin.com/in/mh-fahim/
-[website]:https://linkedin.com
+[website]:https://mh-fahim.netlify.app/
 
 
 
